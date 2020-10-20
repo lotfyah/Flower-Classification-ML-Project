@@ -9,4 +9,3 @@ pillow
 tensorflow
 pathlib
 keras
-gsap
