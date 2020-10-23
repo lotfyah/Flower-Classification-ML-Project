@@ -11,7 +11,7 @@ Nilsback, M-E. and Zisserman, A. Automated flower classification over a large nu
 Proceedings of the Indian Conference on Computer Vision, Graphics and Image Processing (2008) 
 TASK BREAKDOWN
 ## Machine Learning Model
-1.	Use python pandas to create a machine learning model to train the dataset of flowers.
+1.	Use python pandas to create a machine learning model and train the model using the train flower dataset.
 2.	Carry out the necessary tasks to make the model predict the flower category with
 (a)	Test dataset; (b) Validation dataset
 3.	Generate an api endpoint route for the project
