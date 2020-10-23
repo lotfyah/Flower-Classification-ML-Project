@@ -13,7 +13,7 @@ TASK BREAKDOWN
 ## Machine Learning Model
 1.	Use python pandas to create a machine learning model to train the dataset of flowers.
 2.	Carry out the necessary tasks to make the model predict the flower category with
-(a)	Test dataset; (b) Validation dataset; (b) Test dataset
+(a)	Test dataset; (b) Validation dataset
 3.	Generate an api endpoint route for the project
 4.	Optional: Recommendation of closest flower based on the current prediction
 
